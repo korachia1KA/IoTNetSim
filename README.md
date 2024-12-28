@@ -192,4 +192,3 @@ Validate the video at [Elsevier's Video Validator](http://elsevier-apps.sciverse
 ## Contributors
 - Abdelghafour Korachi ([GitHub](https://github.com/korachia1KA/))
 - Youness ait moh  ([GitHub](https://github.com/AIT-MOH-Youness/))
-- Mohamed Lachgar ([Researchgate](https://www.researchgate.net/profile/Mohamed-Lachgar))
