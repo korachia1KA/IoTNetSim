@@ -186,7 +186,8 @@ Ensure the video adheres to the following:
 - MP4 format, max 150MB.
 - Dimensions: 640x480 at 30 FPS.
 
-Validate the video at [Elsevier's Video Validator](http://elsevier-apps.sciverse.com/GadgetVideoPodcastPlayerWeb/verification).
+Validate the video at [Elsevier's Video Validator]
+(http://elsevier-apps.sciverse.com/GadgetVideoPodcastPlayerWeb/verification).
 
 ---
 
